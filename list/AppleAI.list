@@ -3,3 +3,5 @@
 DOMAIN-KEYWORD,apple-relay
 # 域名后缀匹配
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.apple.com
